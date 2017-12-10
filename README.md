@@ -31,7 +31,7 @@ Then run main project using
 ```
 sudo python util_module.py
 ```
-### Some Screenshots from working application
+### Demo
 Watch this [Video](Demo.mkv) to see how it works.
 
 ## Authors
